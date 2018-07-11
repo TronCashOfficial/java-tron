@@ -1,7 +1,6 @@
 <h1 align="center">
   <br>
-  <img width=20% src="https://raw.githubusercontent.com/tronprotocol/wiki/master/images/java-tron.png">
-  <br>
+    <br>
   java-TronCash
   <br>
 </h1>
