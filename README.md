@@ -2,7 +2,7 @@
   <br>
   <img width=20% src="https://raw.githubusercontent.com/tronprotocol/wiki/master/images/java-tron.png">
   <br>
-  java-tron
+  java-TronCash
   <br>
 </h1>
 
